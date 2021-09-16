@@ -22,12 +22,6 @@ width:100px;
     margin-bottom: 0px;
     box-shadow: 5px 5px 18px white;
 }
-.footer_div{
-    margin-bottom: 50px;
-}
-.footer_div img{
-    width: 70px;
-}
 #camera,#result{
     border: 2px solid white;
     width: 310px;
@@ -40,11 +34,17 @@ width:100px;
     box-shadow: 5px 5px 18px white;
     border: 1px solid;
 }
+.footer_div{
+    margin-bottom: 50px;
+}
 .footer_div h4{
     background: white;
     border-radius: 10px;
     padding: 5px;
     box-shadow: 5px 5px 18px white;
+}
+.footer_div img{
+    width:70px;
 }
 .copy_right_footer{
     position: fixed;
